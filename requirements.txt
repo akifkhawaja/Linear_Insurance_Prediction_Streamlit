@@ -1,2 +1,4 @@
-pycaret
-streamlit
+pycaret==3.1.0
+streamlit==1.32.2
+numpy==1.23.0
+pandas==1.5.3
